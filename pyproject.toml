@@ -1,0 +1,15 @@
+[project]
+name = "tfsm"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.10.3",
+    "numpy>=2.2.6",
+    "pip>=25.1.1",
+    "sacrebleu>=2.5.1",
+    "spacy>=3.8.6",
+    "torch>=2.7.0",
+    "torchtext>=0.18.0",
+]
